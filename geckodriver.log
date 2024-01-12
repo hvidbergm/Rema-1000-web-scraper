@@ -1,0 +1,944 @@
+1705056336079	geckodriver	INFO	Listening on 127.0.0.1:57907
+1705056339155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofileQDSxaz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705056339808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705056340012	Marionette	INFO	Listening on port 57916
+WebDriver BiDi listening on ws://127.0.0.1:57908
+Read port: 57916
+1705056340390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57908/devtools/browser/9166a80d-0810-490a-8c92-cb87089edf9b
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705056369888	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705056435283	Marionette	INFO	Stopped listening on port 57916
+JavaScript warning: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: Script terminated by timeout at:
+66318/o/init/f/</o.__trace__@https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22:2:30903
+
+Dynamically enable window occlusion 1
+1705056747753	geckodriver	INFO	Listening on 127.0.0.1:58564
+1705056750798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofilekGIkNP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705056751333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705056751501	Marionette	INFO	Listening on port 58574
+Read port: 58574
+WebDriver BiDi listening on ws://127.0.0.1:58565
+1705056751620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58565/devtools/browser/f1318bd4-4a32-4d86-8ad9-2c62c3f9dfa6
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705056782273	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1705057441600	Marionette	INFO	Stopped listening on port 58574
+Dynamically enable window occlusion 1
+1705057443380	geckodriver	INFO	Listening on 127.0.0.1:59069
+1705057446442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofile2qztbP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705057446978	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705057447146	Marionette	INFO	Listening on port 59079
+WebDriver BiDi listening on ws://127.0.0.1:59070
+Read port: 59079
+1705057447405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59070/devtools/browser/f843a6e2-d1e0-4c1f-8e59-88ad3cd83696
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705057470281	Marionette	INFO	Stopped listening on port 59079
+Dynamically enable window occlusion 1
+1705057494575	geckodriver	INFO	Listening on 127.0.0.1:59213
+1705057497655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofileZLa2yN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705057498200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705057498368	Marionette	INFO	Listening on port 59223
+WebDriver BiDi listening on ws://127.0.0.1:59214
+Read port: 59223
+1705057498673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59214/devtools/browser/1d77e61d-ba09-42d4-9b0e-a337dfd8e3de
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705057520916	Marionette	INFO	Stopped listening on port 59223
+Dynamically enable window occlusion 1
+1705057623491	geckodriver	INFO	Listening on 127.0.0.1:59402
+1705057626573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofilePFAeAM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705057627082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705057627249	Marionette	INFO	Listening on port 59412
+WebDriver BiDi listening on ws://127.0.0.1:59403
+Read port: 59412
+1705057627516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59403/devtools/browser/cfcf5508-4a97-423b-a3f7-83ec044d4a17
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705057653270	Marionette	INFO	Stopped listening on port 59412
+Dynamically enable window occlusion 1
+1705057755380	geckodriver	INFO	Listening on 127.0.0.1:59630
+1705057758442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofileGfWfhw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705057758970	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705057759137	Marionette	INFO	Listening on port 59640
+WebDriver BiDi listening on ws://127.0.0.1:59632
+Read port: 59640
+1705057759398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59632/devtools/browser/75f2e539-ce08-40f2-856e-f272665df455
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705057781440	Marionette	INFO	Stopped listening on port 59640
+Dynamically enable window occlusion 1
+1705057834261	geckodriver	INFO	Listening on 127.0.0.1:59790
+1705057837324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofileJPbysS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705057837858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705057838026	Marionette	INFO	Listening on port 59800
+WebDriver BiDi listening on ws://127.0.0.1:59791
+Read port: 59800
+1705057838296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59791/devtools/browser/b7fea43d-e4cb-499b-a01d-255f866f8d18
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705057856273	Marionette	INFO	Stopped listening on port 59800
+JavaScript warning: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: Script terminated by timeout at:
+66318/o/init/f/</o.__trace__@https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22:2:30903
+
+Dynamically enable window occlusion 1
+1705058118952	geckodriver	INFO	Listening on 127.0.0.1:60065
+1705058122029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofileiqkOgt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705058122565	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705058122733	Marionette	INFO	Listening on port 60075
+WebDriver BiDi listening on ws://127.0.0.1:60066
+Read port: 60075
+1705058122844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60066/devtools/browser/b0dac01f-14f3-464a-8a50-26908a594eb9
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705058152577	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705058218371	Marionette	INFO	Stopped listening on port 60075
+JavaScript warning: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: Script terminated by timeout at:
+66318/o/init/f/</o.__trace__@https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22:2:30903
+
+Dynamically enable window occlusion 1
+1705058420267	geckodriver	INFO	Listening on 127.0.0.1:60598
+1705058423332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofilekxuXa7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705058423894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705058424065	Marionette	INFO	Listening on port 60608
+WebDriver BiDi listening on ws://127.0.0.1:60599
+Read port: 60608
+1705058424382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60599/devtools/browser/2e40b64f-5a89-4faa-aae0-e6c1b6dc8ef2
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705058453944	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+1705058527709	Marionette	INFO	Stopped listening on port 60608
+JavaScript warning: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: Script terminated by timeout at:
+66318/o/init/f/</o.__trace__@https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22:2:30903
+
+Dynamically enable window occlusion 1
+1705058675148	geckodriver	INFO	Listening on 127.0.0.1:61113
+1705058678227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofileurCTVE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705058678784	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705058678941	Marionette	INFO	Listening on port 61124
+WebDriver BiDi listening on ws://127.0.0.1:61114
+Read port: 61124
+1705058679242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61114/devtools/browser/c5314c1c-0446-4397-9c23-fb086db8225a
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705058708821	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705058799409	Marionette	INFO	Stopped listening on port 61124
+Dynamically enable window occlusion 1
+1705058829490	geckodriver	INFO	Listening on 127.0.0.1:61636
+1705058832519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofile898Zyo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705058833042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705058833200	Marionette	INFO	Listening on port 61645
+WebDriver BiDi listening on ws://127.0.0.1:61637
+Read port: 61645
+1705058833445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61637/devtools/browser/dde32cfd-dcd6-479e-8205-c4c373b7a302
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705058863062	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705058974157	Marionette	INFO	Stopped listening on port 61645
+JavaScript warning: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: Script terminated by timeout at:
+66318/o/init/f/</o.__trace__@https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22:2:30903
+
+Dynamically enable window occlusion 1
+1705059159509	geckodriver	INFO	Listening on 127.0.0.1:62362
+1705059162597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hvidb\\AppData\\Local\\Temp\\rust_mozprofileAZN7jb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705059163146	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705059163307	Marionette	INFO	Listening on port 62371
+WebDriver BiDi listening on ws://127.0.0.1:62363
+Read port: 62371
+1705059163605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62363/devtools/browser/df0ec462-9c19-41fb-b819-d6248094caa3
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705059193239	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: TypeError: n is undefined
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+JavaScript error: https://matomo.vigoaws.com/js/container_O6vDx9ro.js, line 222: SyntaxError: expected property name, got '{'
+1705059900693	Marionette	INFO	Stopped listening on port 62371
+JavaScript warning: https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22, line 2: Script terminated by timeout at:
+66318/o/init/f/</o.__trace__@https://shop.rema1000.dk/js/app.js?id=2f1183e5df7fba0e8b22:2:30903
+
+Dynamically enable window occlusion 1
